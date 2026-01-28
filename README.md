@@ -1,0 +1,2 @@
+# Analisis-Sentimen-Masyarakat-Terhadap-Kebocoran-Data-Pribadi-Pinjaman-Online-2025
+Proyek ini merupakan tugas akhir mata kuliah Big Data Lanjut yang bertujuan menganalisis opini publik berskala besar terkait krisis kebocoran data pribadi pada layanan pinjaman online (pinjol) di tahun 2025. Menggunakan ekosistem Big Data, penelitian ini memetakan respon masyarakat Indonesia terhadap isu privasi digital.
